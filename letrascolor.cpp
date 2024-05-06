@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int letra;
+    char letra;
 
     cout << "Ingrese una letra de (R, Y, B, W, K, C, G): ";
     cin >> letra;
